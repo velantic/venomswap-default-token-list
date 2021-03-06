@@ -1,5 +1,5 @@
 {
-  "name": "@viperswap/viperswap-default-token-list",
+  "name": "@viperswap/default-token-list",
   "version": "1.0.0",
   "description": "◦ The Viperswap default token list",
   "main": "build/viperswap-default.tokenlist.json",

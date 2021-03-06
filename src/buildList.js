@@ -18,7 +18,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://raw.githubusercontent.com/ViperProtocol/viperswap-default-token-list/master/assets/viperswap-default.tokenlist.png",
+    logoURI: "https://dvwecb5klcqus.cloudfront.net/viperswap/logos/viperswap-128x128.png",
     keywords: ["viperswap", "default"],
     tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...harmony_mainnet, ...harmony_testnet]
       // sort them by symbol for easy readability
