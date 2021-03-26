@@ -62,5 +62,13 @@
     "name": "ChainLink Token",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0aB43550A6915F9f67d0c454C2E90385E6497EaA",
+    "symbol": "bscBUSD",
+    "name": "BUSD Token",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
   }
 ]
