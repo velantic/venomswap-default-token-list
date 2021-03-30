@@ -36,7 +36,7 @@
     "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
     "symbol": "1USDC",
     "name": "USD Coin",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
   },
   {
