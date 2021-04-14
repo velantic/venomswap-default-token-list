@@ -102,5 +102,13 @@
     "name": "Wise Token",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1WISE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734",
+    "symbol": "1DSLA",
+    "name": "DSLA",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1DSLA.png"
   }
 ]
