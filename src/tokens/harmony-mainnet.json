@@ -146,10 +146,10 @@
   {
     "chainId": 1666600000,
     "address": "0x3e9D32580B0BF3aE72AFCBEbC68710d2Fd9a18F0",
-    "symbol": "bscCake",
+    "symbol": "bscCAKE",
     "name": "PancakeSwap Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscCake.png"
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscCAKE.png"
   },
   {
     "chainId": 1666600000,
