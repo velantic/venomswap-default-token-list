@@ -110,5 +110,61 @@
     "name": "DSLA",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1DSLA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
+    "symbol": "1AAVE",
+    "name": "Aave Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1AAVE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7b9c523d59AeFd362247Bd5601A89722e3774dD2",
+    "symbol": "1SNX",
+    "name": "Synthetix Network Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1SNX.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xa0dc05F84A27FcCBD341305839019aB86576bc07",
+    "symbol": "1YFI",
+    "name": "yearn.finance",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1YFI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x58f1b044d8308812881a1433d9Bbeff99975e70C",
+    "symbol": "11INCH",
+    "name": "1INCH Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/11INCH.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3e9D32580B0BF3aE72AFCBEbC68710d2Fd9a18F0",
+    "symbol": "bscCake",
+    "name": "PancakeSwap Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/bscCake.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
+    "symbol": "1SUSHI",
+    "name": "SushiToken",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1SUSHI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x90D81749da8867962c760414C1C25ec926E889b6",
+    "symbol": "1UNI",
+    "name": "Uniswap",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1UNI.png"
   }
 ]
