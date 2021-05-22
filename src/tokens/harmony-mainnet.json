@@ -174,5 +174,29 @@
     "name": "Matic Token",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MATIC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
+    "symbol": "hMOCHI",
+    "name": "MochiSwap Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/HMOCHI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
+    "symbol": "oSWAP",
+    "name": "OpenSwap Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/OSWAP.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B",
+    "symbol": "JENN",
+    "name": "TokenJenny",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/JENN.png"
   }
 ]
