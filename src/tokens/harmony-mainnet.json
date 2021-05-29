@@ -198,5 +198,13 @@
     "name": "TokenJenny",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/JENN.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+    "symbol": "XYA",
+    "name": "Freyala",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
   }
 ]
