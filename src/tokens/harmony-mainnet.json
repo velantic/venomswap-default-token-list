@@ -206,5 +206,13 @@
     "name": "Freyala",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x66cf8375fd083e7d103d69378e9af20f1b46dc59",
+    "symbol": "HPLAY",
+    "name": "HARMONY PLAY",
+    "decimals": 18,
+    "logoURI": "https://harmonyplay.one/one1vm8cxa0apql86ypadymcaxhjpud5dhzeetm2yj.png"
   }
 ]
